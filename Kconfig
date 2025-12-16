@@ -60,3 +60,9 @@ config HQ_PROJECT_A06
    default n
    help
    HQ PROJECT A06
+
+config MISC_OPT_OVERCLOCK
+   bool CONFIG_MISC_OPT_OVERCLOCK
+   default n
+   help
+   MISC OPT OVERCLOCK
